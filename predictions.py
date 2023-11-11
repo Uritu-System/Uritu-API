@@ -1,5 +1,5 @@
 predictions = [
     {
-        "transcription": "message"
+        "transcription": "quechuaText"
     }
 ]
